@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+> Glad to meet you.🤩
+- 🖥 I’m currently working on becoming a software engineer.
+- 🌱 I’m currently learning computer science at Multimedia University.
+- 👯 I’m looking to collaborate on any projects.
+- 🖥 I enjoy working with APIs a lot.
+## 😅 Interests
+- 👩‍💻 Tech enthusiast.
+- 🤷‍♀️ Watching movies and series.
+- 🖥 Programming and problem solving.
+## 🗣 Languages
+I'm currently learning
+- 🤖 Python
+- 🚀 Javascript
+- 📌 HTML/CSS
+- ⚛️ React
+- 🌐 APIs
+## 💬 Contact Me
+You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10027a/) or on email: chirutracy@gmail.com.
 
-<!--
-**TracyK10/TracyK10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Collaborate
+I'm open to collaborating on projects and working together. Feel free to reach out.
