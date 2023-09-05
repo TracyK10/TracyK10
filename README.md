@@ -16,7 +16,7 @@ I'm currently learning
 - ⚛️ React
 - 🌐 APIs
 ## 💬 Contact Me
-You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10027a/) or on email: chirutracy@gmail.com.
+You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10027a/) or on email: chirutracy2@gmail.com.
 
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
