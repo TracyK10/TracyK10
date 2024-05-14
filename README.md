@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning computer science at Multimedia University.
 - 👯 I’m looking to collaborate on any projects.
 - 🖥 I enjoy working with APIs a lot.
-## 😅 Interests
+## 🌟 Interests
 - 👩‍💻 Tech enthusiast.
 - 🤷‍♀️ Watching movies and series.
 - 🖥 Programming and problem solving.
@@ -23,3 +23,6 @@ You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10
 
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
+
+## Stats
+[github stats](https://github-stats.com/TracyK10)
