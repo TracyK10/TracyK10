@@ -24,5 +24,3 @@ You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
 
-## Stats
-[github stats](https://github-stats.com/TracyK10)
