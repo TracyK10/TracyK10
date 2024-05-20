@@ -47,7 +47,7 @@ You can contact me on email: chirutracy2@gmail.com or using the following links 
 
 <br/>  
 
-## Github Stats  
+## ⏱ Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TracyK10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
