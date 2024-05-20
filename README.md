@@ -19,7 +19,31 @@ I'm currently learning
 - 🌐 APIs
 - ♾ Next JS
 ## 💬 Contact Me
-You can contact me on [linkedIn](https://www.linkedin.com/in/tracy-karanja-24a10027a/) or on email: chirutracy2@gmail.com.
+You can contact me on email: chirutracy2@gmail.com or using the following links below: 👇🏽👇🏽👇🏽
+
+<div align="center">
+<a href="https://instagram.com/https://instagram.com/uhitstracie" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/TracyK10" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tracy-karanja-24a10027a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@chirutracy" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@https://karanjatracy.hashnode.dev/" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://x.com/uhitstracie?t=waayEJ6KJPLuxzGvC29IDw&s=09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
