@@ -18,6 +18,8 @@ I'm currently learning
 - ⚛️ React JS
 - 🌐 APIs
 - ♾ Next JS
+- 🌶 Flask
+- 🅱 Bootstrap
 ## 💬 Contact Me
 You can contact me on email: chirutracy2@gmail.com or using the following links below: 👇🏽👇🏽👇🏽
 
