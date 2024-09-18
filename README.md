@@ -1,6 +1,6 @@
 ![readme-photo](https://github.com/TracyK10/TracyK10/assets/107494362/f154576a-8864-4e6c-86b3-658c240972b8)
 # Hi there 👋
-> Glad to meet you.🤩
+I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you.🤩
 
 - 🖥 I’m currently working on becoming a software engineer.
 - 🌱 I’m currently learning computer science at Multimedia University.
