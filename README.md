@@ -20,6 +20,7 @@ I'm currently learning
 - ♾ Next JS
 - 🌶 Flask
 - 🅱 Bootstrap
+- 📲 React Native together with Expo
 ## 💬 Contact Me
 You can contact me on email: chirutracy2@gmail.com or using the following links below: 👇🏽👇🏽👇🏽
 
