@@ -1,4 +1,5 @@
-<img src="./retro-profile.gif" alt="retro gif" width="300" height="200"/>
+<img src="./retro-profile.gif" alt="retro gif" height="200"/>
+
 # Hi there 👋
 I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you.🤩
 
