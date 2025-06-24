@@ -56,9 +56,8 @@ You can contact me on email: chirutracy@gmail.com or using the following links b
 
 <br/>  
 
-<div align="center">
-
 ## 💭 Here's a random quote for you  
+<div align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
