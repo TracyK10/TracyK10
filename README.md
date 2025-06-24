@@ -25,7 +25,7 @@ I'm currently learning
 - 🔷 Tailwind
 - 📲 React Native together with Expo
 ## 💬 Contact Me
-You can contact me on email: chirutracy2@gmail.com or using the following links below: 👇🏽👇🏽👇🏽
+You can contact me on email: chirutracy@gmail.com or using the following links below: 👇🏽👇🏽👇🏽
 
 <div align="center">
 <a href="https://instagram.com/uhitstracie" target="_blank">
