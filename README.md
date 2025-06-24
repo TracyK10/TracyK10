@@ -1,13 +1,26 @@
-![profile gif](./retro-profile.gif)
+<p align="center">
+  <img src="./retro-profile.gif" width="100%" height="200" alt="retro gif" />
+</p>
 
 # Hi there 👋  
 I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="display:inline; vertical-align:middle;" />
 
+---
 
-- 🖥 I’m currently working on becoming a software engineer.
-- 🌱 I’m currently doing my Master's at Carnegie Mellon University Africa.
-- 👯 I’m looking to collaborate on any projects.
-- 🖥 I enjoy working on front-end projects a lot.
+I'm a software engineer in the making with a passion for building sleek, user-friendly web apps. I'm currently pursuing my Master’s at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I'm honing both my technical chops and big-picture thinking. 🚀
+
+From turning UI mockups into pixel-perfect interfaces to solving real-world problems with clean code, I love transforming ideas into functional, beautiful digital experiences.
+
+> I believe tech should be both **impactful and delightful** — and I’m here for the magic in between.
+
+- 💡 Curious about APIs, design systems, and React ecosystems  
+- 👩🏽‍💻 I build with [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Flask](https://flask.palletsprojects.com/) & more  
+- 🛠 Check out my work on [GitHub](https://github.com/TracyK10) and [my portfolio](https://portfolio-website-tracy-karanja.vercel.app/)  
+- 🧠 I write and share insights on [Hashnode](https://hashnode.com/@TracyK/) & [Medium](https://medium.com/@chirutracy)  
+- 🌍 I’m all about tech that solves local problems and uplifts communities
+
+Let's connect and create something awesome. ✨
+
 ## 🌟 Interests
 - 👩‍💻 Tech enthusiast.
 - 🤷‍♀️ Watching movies and series.
