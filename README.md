@@ -1,7 +1,8 @@
-<img src="./retro-profile.gif" alt="retro gif" height="200"/>
+![profile gif](./retro-profile.gif)
 
-# Hi there 👋
-I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you.🤩
+# Hi there 👋  
+I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you. 🤩 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="display:inline; vertical-align:middle;" />
+
 
 - 🖥 I’m currently working on becoming a software engineer.
 - 🌱 I’m currently learning computer science at Multimedia University.
@@ -54,6 +55,8 @@ You can contact me on email: chirutracy2@gmail.com or using the following links 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TracyK10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
