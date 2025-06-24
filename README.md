@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./retro-profile.gif" width="100%" height="200" alt="retro gif" />
+  <img src="./retro-profile.gif" style="max-width: 100%; height: auto;" alt="retro gif" />
 </p>
+
 
 # Hi there 👋  
 I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet you. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="display:inline; vertical-align:middle;" />
