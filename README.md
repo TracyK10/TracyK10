@@ -5,9 +5,9 @@ I'm [Tracy](https://portfolio-website-tracy-karanja.vercel.app/), glad to meet y
 
 
 - 🖥 I’m currently working on becoming a software engineer.
-- 🌱 I’m currently learning computer science at Multimedia University.
+- 🌱 I’m currently doing my Master's at Carnegie Mellon University Africa.
 - 👯 I’m looking to collaborate on any projects.
-- 🖥 I enjoy working with APIs a lot.
+- 🖥 I enjoy working on front-end projects a lot.
 ## 🌟 Interests
 - 👩‍💻 Tech enthusiast.
 - 🤷‍♀️ Watching movies and series.
