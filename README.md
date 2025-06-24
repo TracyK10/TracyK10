@@ -56,11 +56,14 @@ You can contact me on email: chirutracy@gmail.com or using the following links b
 
 <br/>  
 
-## 💭 Here's a random quote for you  
-<div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+## 💭 Here's a random quote for you
 
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quote" />
+  </a>
 </div>
+
 
 
 ## 🤝 Collaborate
