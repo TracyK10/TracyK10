@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./retro-profile.gif" style="max-width: 100%; height: auto;" alt="retro gif" />
+  <img src="./updated-retro-profile.gif" width="100%" alt="retro gif" />
 </p>
+
 
 
 # Hi there 👋  
