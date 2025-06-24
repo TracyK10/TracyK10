@@ -56,8 +56,13 @@ You can contact me on email: chirutracy@gmail.com or using the following links b
 
 <br/>  
 
-## 💭 Here's a random quote for you
+<div align="center">
+
+## 💭 Here's a random quote for you  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 
 ## 🤝 Collaborate
 I'm open to collaborating on projects and working together. Feel free to reach out.
